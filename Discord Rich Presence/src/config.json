@@ -1,9 +1,9 @@
 {
-    "clientId": "773289621433745468",
-    "details":"BRASIL IS VERY GOOD",
-    "status":"BRASIL",
-    "largeImageKey": "icon",
-    "largeImageText": "BRASIL",
-    "smallImageKey": "smallIcon",
-    "smallImageText": "BRASIL"
+    "clientId": "INSERT ID BOT",
+    "details":"INSERT DESCRIPTION",
+    "status":"INSERT STATUS",
+    "largeImageKey": "INSERT ICON LARGE",
+    "largeImageText": "INSERT DESCRIPTION ICON LARGE",
+    "smallImageKey": "INSERT ICON SMALL",
+    "smallImageText": "INSERT DESCRIPTION ICON SMALL"
 }
